@@ -39,7 +39,7 @@ class SnapBrute:
                     }
        
                 data = {
-                    'username':self.username,
+                    'username':boutthatbag613.username,
                     'password':password,
                     'xsrf_token':xsrf_token,
                     'continue':'%2Faccounts%2Fwelcome',
